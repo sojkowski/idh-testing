@@ -1,4 +1,8 @@
-## Hello!
+---
+## About
+---
+
+### Hello!
 
 This site is run by Nicole Sojkowski, a Master's student at _Northeastern University_.
 Her main areas of focus are Visual Cultures and English 
