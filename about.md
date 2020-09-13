@@ -4,4 +4,4 @@ This site is run by Nicole Sojkowski, a Master's student at _Northeastern Univer
 Her main areas of focus are Visual Cultures and English 
 Literature. She has experience in digital archives and text encoding with TEI and XML through her previous projects: 
 [EBBDA](https://ebbda.northeastern.edu) and [WWP](https://www.wwp.northeastern.edu).
-<img src="https://avatars3.githubusercontent.com/u/70421582?s=460&u=6da406e25031051e4a574f232956a3c6862dc72a&v=4" alt="profile" height="200" width="200" />
+<img src="https://avatars3.githubusercontent.com/u/70421582?s=460&u=6da406e25031051e4a574f232956a3c6862dc72a&v=4" alt="profile" align="center" height="300" width="300" />
